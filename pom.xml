@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.is.bupt</groupId>
-    <artifactId>BankSystemManagement</artifactId>
+    <artifactId>BankSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BankSystemManagement</name>
-    <description>BankSystemManagement</description>
+    <name>BankSystem</name>
+    <description>ASimpleBankSystem</description>
     <properties>
         <java.version>17</java.version>
     </properties>
